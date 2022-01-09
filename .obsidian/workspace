@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "55147acf208d0b2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "468dd28a7a31680a",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62b74818c377dcce",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc5487d64903a25f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a034855cc595dcf2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "759d5b0a86d561c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293
+  },
+  "right": {
+    "id": "a0f3d4060160e6b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "447a2c60116cf39b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b54fd5d5081df56c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "468dd28a7a31680a",
+  "lastOpenFiles": [
+    "Authentication/Authentication.md",
+    "Pasted image 20220103162432.png",
+    "Deployment/Deployment.md",
+    "Other Concepts/More Concepts.md",
+    "Parameters/Request, Validators & parameters.md",
+    "Operations/Operations.md",
+    "Databases/Database with SqlAlchemy.md",
+    "Pasted image 20220102175707.png",
+    "Pasted image 20220102142056.png",
+    "Getting Started/Installation.md"
+  ]
+}
