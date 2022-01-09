@@ -1,7 +1,7 @@
 
-<h1> Databases </h1>
+```Databases```
 
-![](Pasted image 20220102142056.png)
+![](Databases\Pasted image 20220102142056.png)
 
 *Create User* :
 
