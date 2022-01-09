@@ -20,9 +20,7 @@
 
 ![[Pasted image 20220105155103.png]]
 
-**Cookies**
 
-----------
 
 **Files**
 
