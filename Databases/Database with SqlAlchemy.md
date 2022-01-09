@@ -3,7 +3,7 @@
 
 ![](Databases\Pasted image 20220102142056.png)
 
-*Create User* :
+**Create User**
 
 ![[Pasted image 20220102134012.png]]
 
