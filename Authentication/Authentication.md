@@ -1,7 +1,9 @@
 
 
 **Authentication**
+
 ![](Authentication\Pasted image 20220106141334.png)
+
 **Securing an Endpoint**
 
 - Create a new folder name "Auth"
